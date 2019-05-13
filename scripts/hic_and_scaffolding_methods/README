@@ -1,0 +1,5 @@
+HiC and scaffolding methods
+From Jana Sperschneider
+Notes from Jana: In my script the perlcombiner and perlfilter paths link to two_read_bam_combiner.pl and filter_five_end.pl which are part of the Arima Genomics pipeline, I didn’t write them. You can find them here:
+
+https://github.com/ArimaGenomics/mapping_pipeline
